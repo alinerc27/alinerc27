@@ -3,7 +3,7 @@
 - 😊 Pronomes: Ela/Dela.
 - 💻 Atualmente trabalho e sou especialista em banco de dados. 
 - 🐛 Estou em transição de carreira dentro da tecnologia.
-- 🌱 Estudante de desenvolvimento Frontend na Laboratória Brasil.
+- 🌱 Estudante de desenvolvimento Front-End na Laboratória Brasil.
 - 🎓 Iniciarei uma nova graduação na area de Tecnologia no segundo semestre de 2022.
 - 🎶 Meu maior hobby é a música.
 
@@ -26,7 +26,7 @@
         </div>
       </td>
       <td>
-        <h3>Agile Methodologies:</h3>
+        <h3>Agile Methodologies and Organization Tools:</h3>
         <div style="display: inline_block">
           <img alt="Trello" height="35" width="40" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg">
           <img alt="Slack" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg">
@@ -47,7 +47,7 @@
         </div>
       </td>
       <td>
-        <h3>infrastructure:</h3>
+        <h3>Infrastructure:</h3>
         <div style="display: inline_block">
           <img alt="Oracle" height="35" width="40" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg">
           <img alt="SQL Server" height="35" width="40" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
