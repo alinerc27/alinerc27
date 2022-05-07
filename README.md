@@ -6,7 +6,7 @@
 - 🌱 Estudante de desenvolvimento Front-End na Laboratória Brasil.
 - 🎓 Iniciarei uma nova graduação na area de Tecnologia no segundo semestre de 2022.
 - 🎶 Meu maior hobby é a música.
-
+---
 <br>
 <div style="display: inline_block">
     <img align="right" alt="Aline-avatar" height="150" style="border-radius:180px;" src="main/eu_avatar.gif">
