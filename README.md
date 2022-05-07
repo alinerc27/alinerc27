@@ -7,7 +7,9 @@
 - 🎓 Iniciarei uma nova graduação na area de Tecnologia no segundo semestre de 2022.
 - 🎶 Meu maior hobby é a música.
 
-
+<div style="display: inline_block">
+    <img align="right" alt="Aline-avatar" height="150" style="border-radius:180px;" src="main/eu_avatar.gif">
+</div>
 <br>
 <div align="center">
 
@@ -66,7 +68,5 @@
       <a href="mailto:aline.rosa.cruz@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email de Aline Rosa Cruz"><br>
       <a href="https://www.linkedin.com/in/aline-rosa-cruz/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin de Aline Rosa Cruz"></a>
   </div>  
-  <div style="display: inline_block">
-      <img align="right" alt="Aline-avatar" height="150" style="border-radius:180px;" src="main/eu_avatar.gif">
-  </div>
+
      
