@@ -73,7 +73,7 @@
 ### Numero de visitantes 🚀
 
 <div>
-     <p align="center"><img align="center" src="https://profile-counter.glitch.me/{rafaballerini}/count.svg"/></p> 
+     <p align="center"><img align="center" src="https://profile-counter.glitch.me/alinerc27/count.svg"/></p> 
 </div>
 
 <div align="center">
