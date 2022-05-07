@@ -1,4 +1,4 @@
-## Olá, eu sou a Aline Rosa Cruz, muito prazer 👋🏼
+# Olá, eu sou a Aline Rosa Cruz, muito prazer 👋🏼
 <div style="display: inline_block">
     <img align="right" alt="Aline-avatar" height="150" style="border-radius:180px;" src="main/eu_avatar.gif">
 </div>
@@ -73,7 +73,11 @@
 ### Numero de visitantes 🚀
 
 <div>
-     <p align="center"><img align="center" src="https://profile-counter.glitch.me/{alinerc27}/count.svg"/></p> 
+     <p align="center"><img align="center" src="https://profile-counter.glitch.me/{rafaballerini}/count.svg"/></p> 
 </div>
 
-     
+<div align="center">
+  <a href="https://github.com/alinerc27">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alinerc27&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinerc27&layout=compact&langs_count=7&theme=dark"/>
+</div>     
