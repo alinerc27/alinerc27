@@ -2,7 +2,6 @@
 <div style="display: inline_block">
     <img align="right" alt="Aline-avatar" height="150" style="border-radius:180px;" src="main/eu_avatar.gif">
 </div>
-<br>
 
 - 🙋‍♀️ Tenho 30 anos.
 - 😊 Pronomes: Ela/Dela.
