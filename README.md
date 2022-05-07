@@ -30,6 +30,9 @@
         <div style="display: inline_block">
           <img alt="Trello" height="35" width="40" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg">
           <img alt="Slack" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg">
+          <img alt="Evernote" height="35" width="40" src="main/evernote.svg">
+          <img alt="Notion" height="35" width="40" src="main/notion.svg">
+          <img alt="Scrum" height="35" width="40" src="main/scrum.svg">
         </div>
       </td>
     </tr>
@@ -58,7 +61,8 @@
     </tr>
   </table>
 <br>
-<div align="center">
-  <a href="mailto:aline.rosa.cruz@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email de Aline Rosa Cruz">
-  <a href="https://www.linkedin.com/in/aline-rosa-cruz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin de Aline Rosa Cruz"></a>
+<div style="display: inline_block">
+  <a href="mailto:aline.rosa.cruz@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email de Aline Rosa Cruz">
+  <a href="https://www.linkedin.com/in/aline-rosa-cruz/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin de Aline Rosa Cruz"></a>
+  <img align="right" alt="Aline-avatar" height="150" style="border-radius:50px;" src="main/eu_avatar.gif">
 </div>
