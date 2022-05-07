@@ -4,7 +4,7 @@
 </div>
 
 - 🙋‍♀️ Tenho 30 anos.
-- 😊 Pronomes: Ela/Dela.
+- ♀️ Pronomes: Ela/Dela.
 - 💻 Atualmente trabalho e sou especialista em banco de dados. 
 - 🐛 Estou em transição de carreira dentro da tecnologia.
 - 🌱 Estudante de desenvolvimento Front-End na Laboratória Brasil.
@@ -70,5 +70,10 @@
   </table>
 <br>
 
+### Numero de visitantes 🚀
+
+<div>
+     <p align="center"><img align="center" src="https://profile-counter.glitch.me/{alinerc27}/count.svg"/></p> 
+</div>
 
      
