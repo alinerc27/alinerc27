@@ -1,6 +1,6 @@
 # Olá, eu sou a Aline Rosa Cruz, muito prazer 👋🏼
 <div style="display: inline_block">
-    <img align="right" alt="Aline-avatar" height="150" style="border-radius:180px;" src="main/eu_avatar.gif">
+    <img align="right" alt="Aline-avatar" height="150" style="border-radius:180px;" src="img/eu_avatar.gif">
 </div>
 
 - 🙋‍♀️ Tenho 30 anos.
@@ -38,9 +38,9 @@
         <div style="display: inline_block">
           <img alt="Trello" height="35" width="40" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg">
           <img alt="Slack" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg">
-          <img alt="Evernote" height="35" width="40" src="main/evernote.svg">
-          <img alt="Notion" height="35" width="40" src="main/notion.svg">
-          <img alt="Scrum" height="35" width="40" src="main/scrum.svg">
+          <img alt="Evernote" height="35" width="40" src="img/evernote.svg">
+          <img alt="Notion" height="35" width="40" src="img/notion.svg">
+          <img alt="Scrum" height="35" width="40" src="img/scrum.svg">
         </div>
       </td>
     </tr>
