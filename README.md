@@ -65,9 +65,9 @@
   </table>
 <br>
 
-  <div style="display: inline_block">
-      <a href="mailto:aline.rosa.cruz@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email de Aline Rosa Cruz"><br>
-      <a href="https://www.linkedin.com/in/aline-rosa-cruz/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin de Aline Rosa Cruz"></a>
+  <div align="center">
+      <a href="mailto:aline.rosa.cruz@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email de Aline Rosa Cruz"><br>
+      <a href="https://www.linkedin.com/in/aline-rosa-cruz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin de Aline Rosa Cruz"></a>
   </div>  
 
      
