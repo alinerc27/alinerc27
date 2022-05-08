@@ -1,10 +1,10 @@
-# Hello, I'm Aline Rosa Cruz, nice to meet you. 👋🏼
+# Hello, I'm Aline Rosa Cruz, Nice to meet you. 👋🏼
 <div style="display: inline_block">
     <img align="right" alt="Aline-avatar" height="150" style="border-radius:180px;" src="img/eu_avatar.gif">
 </div>
 
 - 🙋‍♀️ I'm 30 years old.
-- ♀️ Pronouns: Her/Her.
+- ♀️ Pronouns: she/her.
 - 💻 I currently work and am a database specialist. 
 - 🐛 I'm in a career transition within technology.
 - 🌱 Front End development student at Laboratoria Brazil.
