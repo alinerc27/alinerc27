@@ -12,7 +12,6 @@
 - 🎶 Meu maior hobby é a música.
 
 <div align="center">
-      <a href="https://github.com/alinerc27/alinerc27/blob/main/README_EN.md" target="_blank"><img src="img/ingles2.png" alt="readme in english">      
       <a href="mailto:aline.rosa.cruz@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email de Aline Rosa Cruz">
       <a href="https://www.linkedin.com/in/aline-rosa-cruz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin de Aline Rosa Cruz"></a>
 </div>
@@ -23,7 +22,7 @@
   <table>
     <tr>
       <td>
-        <h3>Desenvolvimento Full Stack:</h3>
+        <h3>Full Stack Development:</h3>
         <div style="display: inline_block">
           <img alt="VSCode" width="35" height="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" />
           <img alt="Git" width="35" height="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
@@ -35,7 +34,7 @@
         </div>
       </td>
       <td>
-        <h3>Metodologias Ágeis e Ferramentas de Organização:</h3>
+        <h3>Agile Methodologies and Organization Tools:</h3>
         <div style="display: inline_block">
           <img alt="Trello" height="35" width="40" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg">
           <img alt="Slack" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg">
@@ -47,7 +46,7 @@
     </tr>
     <tr>
       <td>
-        <h3>UI e UX Design:</h3>
+        <h3>UI/UX Design:</h3>
         <div style="display: inline_block">
           <img alt="Figma" height="35" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
           <img alt="Canva" height="35" width="40" src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg">
@@ -59,7 +58,7 @@
         </div>
       </td>
       <td>
-        <h3>Infraestrutura:</h3>
+        <h3>Infrastructure:</h3>
         <div style="display: inline_block">
           <img alt="Oracle" height="35" width="40" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg">
           <img alt="SQL Server" height="35" width="40" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
