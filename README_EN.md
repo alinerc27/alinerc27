@@ -1,17 +1,18 @@
-# Olá, eu sou a Aline Rosa Cruz, muito prazer 👋🏼
+# Hello, I'm Aline Rosa Cruz, nice to meet you. 👋🏼
 <div style="display: inline_block">
     <img align="right" alt="Aline-avatar" height="150" style="border-radius:180px;" src="img/eu_avatar.gif">
 </div>
 
-- 🙋‍♀️ Tenho 30 anos.
-- ♀️ Pronomes: Ela/Dela.
-- 💻 Atualmente trabalho e sou especialista em banco de dados. 
-- 🐛 Estou em transição de carreira dentro da tecnologia.
-- 🌱 Estudante de desenvolvimento Front-End na Laboratória Brasil.
-- 🎓 Iniciarei uma nova graduação na area de Tecnologia no segundo semestre de 2022.
-- 🎶 Meu maior hobby é a música.
+- 🙋‍♀️ I'm 30 years old.
+- ♀️ Pronouns: Her/Her.
+- 💻 I currently work and am a database specialist. 
+- 🐛 I'm in a career transition within technology.
+- 🌱 Front End development student at Laboratoria Brazil.
+- 🎓 I will start a new degree in the area of ​​Technology in the second half of 2022.
+- 🎶 My biggest hobby is music.
 
 <div align="center">
+      <a href="https://github.com/alinerc27/alinerc27/blob/main/README.md" target="_blank"><img height="28" src="img/portugues.png" alt="readme em portugues">      
       <a href="mailto:aline.rosa.cruz@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email de Aline Rosa Cruz">
       <a href="https://www.linkedin.com/in/aline-rosa-cruz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin de Aline Rosa Cruz"></a>
 </div>
@@ -46,7 +47,7 @@
     </tr>
     <tr>
       <td>
-        <h3>UI/UX Design:</h3>
+        <h3>UI and UX Design:</h3>
         <div style="display: inline_block">
           <img alt="Figma" height="35" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
           <img alt="Canva" height="35" width="40" src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg">
@@ -70,7 +71,7 @@
   </table>
 <br>
 
-### Numero de visitantes 🚀
+### Number of visitors 🚀
 
 <div>
      <p align="center"><img align="center" src="https://profile-counter.glitch.me/alinerc27/count.svg"/></p> 
