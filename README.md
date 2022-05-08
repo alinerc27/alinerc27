@@ -12,7 +12,7 @@
 - 🎶 Meu maior hobby é a música.
 
 <div align="center">
-      <a href="https://github.com/alinerc27/alinerc27/blob/main/README_EN.md" target="_blank"><img src="img/ingles2.png" alt="readme in english">      
+      <a href="https://github.com/alinerc27/alinerc27/blob/main/README_EN.md" height="28" target="_blank"><img src="img/ingles2.png" alt="readme in english">      
       <a href="mailto:aline.rosa.cruz@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email de Aline Rosa Cruz">
       <a href="https://www.linkedin.com/in/aline-rosa-cruz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin de Aline Rosa Cruz"></a>
 </div>
