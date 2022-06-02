@@ -60,7 +60,7 @@
         </div>
       </td>
       <td>
-        <h3>Infrastructure:</h3>
+        <h3>Database and Infrastructure:</h3>
         <div style="display: inline_block">
           <img alt="Oracle" height="35" width="40" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg">
           <img alt="SQL Server" height="35" width="40" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
