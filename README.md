@@ -25,7 +25,6 @@
       <td>
         <h3>Desenvolvimento Full Stack:</h3>
         <div style="display: inline_block">
-          <img alt="VSCode" width="35" height="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" />
           <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="35" height="40"/> </a>
           <img alt="Git" width="35" height="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
           <img alt="HTML5" width="35" height="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
@@ -61,7 +60,7 @@
         </div>
       </td>
       <td>
-        <h3>Infraestrutura:</h3>
+        <h3>Banco de dados e Infraestrutura:</h3>
         <div style="display: inline_block">
           <img alt="Oracle" height="35" width="40" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg">
           <img alt="SQL Server" height="35" width="40" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
