@@ -26,10 +26,12 @@
         <h3>Desenvolvimento Full Stack:</h3>
         <div style="display: inline_block">
           <img alt="VSCode" width="35" height="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" />
+          <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="35" height="40"/> </a>
           <img alt="Git" width="35" height="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
           <img alt="HTML5" width="35" height="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
           <img alt="CSS3" width="35" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
           <img alt="ECMAScript/JavaScript" width="35" height="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
+          <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
           <img alt="Firebase" width="35" height="40" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" />
           <img alt="Python" width="35" height="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
         </div>
